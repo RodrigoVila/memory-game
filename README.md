@@ -1,20 +1,14 @@
-# Memory Game Project
+# memory-game
+It is a game in which you have to guess the pairs of cards in the shortest possible time.
 
-## Table of Contents
+Comments through the code were added to understand how it works.
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+## To start, please open index.html
 
-## Instructions
+Or you can play it here https://codepen.io/Alhwin/pen/pozxXpm
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+Enjoy!
 
-To get started, open `js/app.js` and start building out the app's functionality
+Bug Fixes
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+19/09 --> Modal disappears when clicking anywhere on the screen. Now it only does it when click in close (X) button.
