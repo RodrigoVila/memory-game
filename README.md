@@ -3,7 +3,7 @@ It is a game in which you have to guess the pairs of cards in the shortest possi
 
 Comments through the code were added to understand how it works.
 
-## To start, please open index.html
+To start, please open index.html
 
 Or you can play it here https://codepen.io/Alhwin/pen/pozxXpm
 
