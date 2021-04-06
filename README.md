@@ -1,4 +1,4 @@
-# memory-game
+# Vanilla JS Memory Game
 It is a game in which you have to guess the pairs of cards in the shortest possible time.
 
 Comments through the code were added to understand how it works.
